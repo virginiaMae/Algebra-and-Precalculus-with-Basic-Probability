@@ -20,7 +20,12 @@
   <exercises>
     <exercise>
       <!-- Doenet problems here -->
-      <!-- <xi:include href="" /> -->
+      <!-- from MA1151 HWM 4.3 -->
+      <!-- <xi:include href="./ex-4-3/TR-Triangles_31a.doenet" />
+      <xi:include href="./ex-4-3/TR-Triangles_31b.doenet" />
+      <xi:include href="./ex-4-3/TR-Triangles_31c.doenet" />
+      <xi:include href="./ex-4-3/TR-Triangles_31d.doenet" />
+      <xi:include href="./ex-4-3/TR-Triangles_31e.doenet" /> -->
     </exercise>
   </exercises>
   </section>

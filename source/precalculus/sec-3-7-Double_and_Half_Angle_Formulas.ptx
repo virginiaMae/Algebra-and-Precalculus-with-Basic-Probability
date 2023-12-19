@@ -40,6 +40,10 @@
 
       <xi:include href="./ex-3-7/TR-Formulas_30.doenet" /> 
       <xi:include href="./ex-3-7/TR-Formulas_31.doenet" />  -->
+
+      <!-- from MA1151 HWM 3.7B -->
+      <!-- <xi:include href="./ex-3-7/TR-Formulas_25.doenet" />
+      <xi:include href="./ex-3-7/TR-Formulas_26.doenet" /> -->
     </exercise>
   </exercises>
   </section>
